@@ -1,0 +1,32 @@
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\bin\Debug\Odev3_recursive_uygulama_v1.exe.config
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\bin\Debug\Odev3_recursive_uygulama_v1.exe
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\bin\Debug\Odev3_recursive_uygulama_v1.pdb
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.Form1.resources
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.exe
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Odevler\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.pdb
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\bin\Debug\Odev3_recursive_uygulama_v1.exe.config
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\bin\Debug\Odev3_recursive_uygulama_v1.exe
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\bin\Debug\Odev3_recursive_uygulama_v1.pdb
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csproj.AssemblyReference.cache
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csproj.SuggestedBindingRedirects.cache
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.Form1.resources
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.Properties.Resources.resources
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csproj.GenerateResource.cache
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csproj.CoreCompileInputs.cache
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.exe
+F:\Okul\2.sınıf\1.donem\Veri Yapıları\Ara Odevler\Odev3_recursive_uygulama\Odev3_recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.pdb
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\bin\Debug\Odev3_recursive_uygulama_v1.exe.config
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\bin\Debug\Odev3_recursive_uygulama_v1.exe
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\bin\Debug\Odev3_recursive_uygulama_v1.pdb
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.Form1.resources
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.exe
+C:\Users\Alperen\Desktop\Yeni klasör\recursive_uygulama_v1\Odev3_recursive_uygulama_v1\obj\Debug\Odev3_recursive_uygulama_v1.pdb
